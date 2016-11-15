@@ -31,7 +31,7 @@ def iniciarPlayList(titulocancion):
     while cancionesIntroducidas < len(libreria):
         cancionAIntroducir = seleccionaCancionRandom(libreria)
         if cancionAIntroducir not in playList:
-            valor = "valor"
+            valor = 1
             playlist[valor1:] = seleccionaCancionRandom(libreria)
             valor = valor+1
 
