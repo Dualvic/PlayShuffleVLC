@@ -38,8 +38,11 @@ def iniciarPlayList(titulocancion):
              cancionesIntroducidas += 1
 
 def imprimirCancionesReproducidas(playList):
-     for cancion in playList:
-         print (cancion)
+    indiceCancion = 1
+    for cancion in playList:
+        if indiceCancion == cancion:
+            print (indiceCancion, ":", cancion)
+            indiceCancion += 1
 # 1: Cancion1
 # 2: Cancion2
 # 3: Cancion3
