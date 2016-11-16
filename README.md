@@ -4,15 +4,18 @@ The objective is to introduce a music library, shuffle it and play it on VLC.
    
     
 ##Why was coded##
-First practical exercise to test all our *ED(Entornos de desarrollo/Development environement)* and *Programming knowledge*. 
+First practical exercise to test all our *ED(Entornos de desarrollo/Development environement)* and *Programming* knowledge.   
+
 **ED**
 * Time estimation
 * User stories
 * Deffensive programming
-* Git
+* Git  
+
 **Programming**
 * Lists
-* Dictionaries
+* Dictionaries  
+
 ##Resources##
 * Learning Python 5th edition
 * Code complete 2nd edition
